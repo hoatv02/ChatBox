@@ -11,7 +11,9 @@
 # next.js
 /.next/
 /out/
-
+/README.md
+/package.json
+/package-lock.json
 # production
 /build
 
